@@ -9,3 +9,8 @@ hw05/
 └── task2_lenet5/           # 任务二：LeNet-5实现
     ├── lenet5.py           # LeNet-5网络结构
     └── train_lenet.py      # 训练与评估脚本
+#环境需求
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+matplotlib>=3.7.0
